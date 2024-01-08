@@ -5,6 +5,7 @@
   },
 
   "scripts": {
-    "script": "node index.js"
+    "script": "node index.js",
+    "test": "npm test"
   }
 }
