@@ -1,4 +1,5 @@
 ## SVG-Generator
+A Logo Generating Application based on User Input
 
 ### User Story
 
@@ -27,3 +28,15 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Screenshots
+
+![circle](./lib/images/circle.png)
+![square](./lib/images/sqaure.png)
+![triangle](./lib/images/triangle.png)
+
+## Video Link
+
+https://youtu.be/FNqbOIofJH0
+
+## GitHub Repo
+
+https://github.com/Leonn24/SVG-Genrator

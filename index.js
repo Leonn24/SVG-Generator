@@ -68,7 +68,7 @@ function init() {
     userShape.setColor(data["shape-color"]);
     svg.setTextEl(logoText, data["text-color"]);
     svg.setShapeEl(userShape);
-    fs.writeFileSync(`${data.shape}.svg`, svg.render());
+    fs.writeFileSync('logo.svg', svg.render());
   });
 }
 

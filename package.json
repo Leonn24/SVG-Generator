@@ -5,7 +5,7 @@
   },
 
   "scripts": {
-    "script": "node index.js",
+    "start": "node index.js",
     "test": "npm test"
   }
 }
